@@ -17,12 +17,14 @@ pipenv install huggingface_hub
 pipenv install streamlit
 ```
 
-
 ## 🧠 About
 
 This repository contains a smart AI Medical ChatAssistant - Medically, that leverages state-of-the-art open-source tools to deliver an interactive healthcare assistant experience. It uses HuggingFace embeddings for semantic understanding, Faiss (CPU) for fast vector similarity search, and Mistral as the underlying language model. The user interface is built using Streamlit, making the chatbot simple and accessible to interact with.
 
 The project provides a step-by-step implementation for building an efficient and responsive medical chatbot, offering practical exposure to natural language processing, retrieval-augmented generation (RAG), and AI-driven healthcare solutions.
+
+![Chatbot Screenshot](Medically-By Aryaman/data/Screenshot 2025-07-08 134505.png)
+
 
 
 ## 🚀 Features
