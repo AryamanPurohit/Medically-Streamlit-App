@@ -24,7 +24,7 @@ This repository contains a smart AI Medical ChatAssistant - Medically, that leve
 The project provides a step-by-step implementation for building an efficient and responsive medical chatbot, offering practical exposure to natural language processing, retrieval-augmented generation (RAG), and AI-driven healthcare solutions.
 
 ![Screenshot](data/Screenshot%202025-07-08%20134505.png)
-![Screenshot](Medically-By%20Aryaman/data/Screenshot%202025-07-08%20134551.png)
+![Screenshot](data/Screenshot%202025-07-08%20134551.png)
 
 
 
